@@ -3,8 +3,7 @@
 A Streamlit web app that calculates and visualises your carbon footprint based on 
 electricity, fuel, natural gas, and car usage — with real emission factors by country.
 
-![Carbon Emission Calculator](screenshot.png)
-
+![Carbon Emission Calculator](image.png)
 ## Features
 
 - 🌐 Country selector powered by real electricity emission data from CSV
